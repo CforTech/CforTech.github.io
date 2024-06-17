@@ -34,7 +34,7 @@ header nav ul li a:hover {
 }
 
 .hero {
-    background: url('images/l6.jpg') no-repeat center center/cover;
+    background: url('l6.jpg') no-repeat center center/cover;
     color: #fff;
     text-align: center;
     padding: 100px 20px;
